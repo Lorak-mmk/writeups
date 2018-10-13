@@ -1,0 +1,182 @@
+(alias opta = < `__proto__ { `constructor { `constructor int -> (int -> (int -> int))}} + `val int -> (int -> (int -> int))> in
+(lambda argb:opta.
+    case(argb) {
+        `__proto__ rr -> rr#`constructor#`constructor
+        | `val rr -> rr})
+    (`val ((lambda bb: { `__proto__ int-> (int -> (int -> int)) }.bb#`__proto__){ `__proto__ (lambda xx:int.lambda xxx:int.lambda xxxx:int.xx) }) as opta))
+((lambda a: int.
+ lambda b: int.
+ lambda c: int.
+ lambda d: int.
+ lambda e: int.
+ lambda f: int.
+ lambda g: int.
+ lambda h: int.
+ lambda i: int.
+ lambda j: int.
+ lambda k: int.
+ lambda l: int.
+ lambda m: int.
+ lambda n: int.
+ lambda o: int.
+ lambda p: int.
+ lambda q: int.
+ lambda r: int.
+ lambda s: int.
+ lambda t: int.
+ lambda u: int.
+ a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 114)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 116)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 117)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 114)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 110)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 104)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 105)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 100)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 100)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 110)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 46)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 103)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 116)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 70)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 108)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 97)
+ ((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 103))
+
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 85)
+((lambda a: int.
+ lambda b: int.
+ lambda c: int.
+ lambda d: int.
+ lambda e: int.
+ lambda f: int.
+ lambda g: int.
+ lambda h: int.
+ lambda i: int.
+ lambda j: int.
+ lambda k: int.
+ lambda l: int.
+ lambda m: int.
+ lambda n: int.
+ lambda o: int.
+ lambda p: int.
+ lambda q: int.
+ lambda r: int.
+ lambda s: int.
+ lambda t: int.
+ lambda u: int.
+ lambda w: int.
+ lambda x: int.
+ lambda y: int.
+ lambda z: int.
+ lambda aa: int.
+ lambda bb: int.
+ lambda cc: int.
+ lambda dd: int.
+ lambda ee: int.
+ lambda ff: int.
+ lambda gg: int.
+ lambda hh: int.
+ lambda ii: int.
+ lambda jj: int.
+ lambda kk: int.
+ lambda ll: int.
+ lambda mm: int.
+ lambda nn: int.
+ lambda oo: int.
+ lambda pp: int.
+ lambda qq: int.
+ lambda rr: int.
+ lambda ss: int.
+ lambda tt: int.
+ lambda uu: int.
+ lambda ww: int.
+ lambda xx: int.
+ lambda yy: int.
+ lambda zz: int.
+ lambda aaa: int.
+ lambda bbb: int.
+ lambda ccc: int.
+ lambda ddd: int.
+ lambda eee: int.
+ lambda fff: int.
+ lambda ggg: int.
+ lambda hhh: int.
+ lambda iii: int.
+ lambda jjj: int.
+ lambda kkk: int.
+ lambda lll: int.
+ lambda mmm: int.
+
+ a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+w+x+y+z+aa+bb+cc+dd+ee+ff+gg+hh+ii+jj+kk+ll+mm+nn+oo+pp+qq+rr+ss+tt+uu+ww+xx+yy+zz+aaa+bbb+ccc+ddd+eee+fff+ggg+hhh+iii+jjj+kkk+lll+mmm)
+
+
+
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 105)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 102)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 121)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 111)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 117)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 99)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 97)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 110)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 103)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 116)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 116)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 104)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 105)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 115)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 121)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 111)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 117)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 100)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 115)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 114)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 118)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 116)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 104)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 101)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 102)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 108)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 97)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 103)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 45)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 62)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 32)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 97)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 98)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 99)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 100)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 49)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 50)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 51)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 52)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 33)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 64)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 35)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 36)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 37)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 94)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 38)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 42)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 40)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 41)
+((alias opta = < `__proto__ { `constructor { `name { `constructor { `fromCharCode int -> int}}}} + `val int -> int> in(lambda argb:opta.case(argb) {`__proto__ r -> r#`constructor#`name#`constructor#`fromCharCode | `val r -> r})(`val ((lambda b: { `__proto__ int-> int }.b#`__proto__){ `__proto__ (lambda x:int.x) }) as opta)) 39)) 
