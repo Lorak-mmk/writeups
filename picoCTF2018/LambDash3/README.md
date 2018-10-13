@@ -84,7 +84,9 @@ As such, our objective is clear: it's to submit a piece of code to /run that wou
 
 ### Exploitation
 LC = Lambda Calculus SystemF, the language used in this task
+
 *While writing this solution, it occurred to me that my original solution was a bit needlessly complicated and contained some redundancy. This solution is slightly more reasonable. You can find the original payload that I used to solve this task in payload_old.txt.*
+
 There is only one bug that we need to find in order to solve this task, and everything else is its consequence.
 LC has tuples and optional types, both of which are implemented as JS objects. Therefore, if you have tuple consisting of int f and int g, it will internally exist as a JS object, such as:
 ```javascript
@@ -106,6 +108,7 @@ function getCleanObject(): { [key: string]: any } {
 }
 ```
 _Now comes the part that I still cannot fully comprehend, some help from a NodeJS expert would be greatly appreciated._
+
 The most important part of the solution is to figure out that this function doesn't really work. I'm not sure why, but it probably has to do with Node internals. If you create an object using `a = getCleanObject()`, it will **still have** the `__proto__` attribute, instead of having it undefined, which means you can reference `a['__proto__']`. 
 Knowing that in any optional the `__proto__` attribute is always set, we can define an optional with 
 ```< `__proto__ { `constructor { `constructor int }} + `val int>```, 
