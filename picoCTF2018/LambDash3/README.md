@@ -166,5 +166,5 @@ lambda b : int.
     }
 )(`val (lambda x:int.x) as opta)) 66)
 ```
-After preparing the full payload and pasting it to the site, we got the flag, which I unfortunately didn't save anywhere :D
+After preparing the full payload and pasting it to the site, we got the flag: picoCTF{1_white_lie_and_your_proto_gets_pwnd_4679389f}
 The full payload is available in payload.txt.
