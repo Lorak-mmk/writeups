@@ -1,5 +1,5 @@
 # LambDash 3
-In this challenge we were given a site with an introduction to a variant of the Lambda Calculus language called SystemF, along with an online web shell. 
+In this challenge we were given a site with an introduction to a variant of the Lambda Calculus language called SystemF, along with an online web shell. Link to the challange: http://2018shell2.picoctf.com:29621/
 
 ### Getting the source
 First thing I did was sending an extremely large payload to the interpreter (endpoint: `/run`) to see what would happen. It returned a stack trace containing the path to the challenge files. I logged in to the picoCTF shell, zipped the whole directory, and downloaded it with scp. 
