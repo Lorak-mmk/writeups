@@ -10,7 +10,7 @@ We can see that this app is written in TypeScript and is running on NodeJS. I se
 tsc --build tsconfig.json && node --inspect ./dist/server.js
 ```
 
-The app will be compiled and run on local port 4001. You can also debug it like any other Node app using Chromium DevTools by visiting [chrome-devtools://devtools/bundled/inspector.html?experiments=true&v8only=true&ws=127.0.0.1:9229/**<uuid>**](chrome-devtools://devtools/bundled/inspector.html?experiments=true&v8only=true&ws=127.0.0.1:9229/<uuid>), where <uuid> is the UUID given to you when you run the app. 
+The app will be compiled and run on local port 4001. You can also debug it like any other Node app using Chromium DevTools by visiting `chrome-devtools://devtools/bundled/inspector.html?experiments=true&v8only=true&ws=127.0.0.1:9229/<uuid>`, where <uuid> is the UUID given to you when you run the app. 
 
 ### Analysis
 Okay, now we're in possession of the app's source code and the app is running locally. Let us analyze what is this app doing. If you access `/problem/src/server.ts`, you can see the source of the `/run` endpoint:
