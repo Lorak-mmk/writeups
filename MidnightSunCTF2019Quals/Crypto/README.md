@@ -1,5 +1,5 @@
 # Crypto (short)
-##### Author: Antoni Żewierżejew aka mistrz2137
+##### Author: Antoni Żewierżejew aka miszcz2137
 ## EASYDSA
 
 In the code there is (k=gen<sup>u*m</sup>(mod q)), so if we can get (k=1) decoding other stuff will be much easier. But u is random and there is assert (m%(q-1)!=0) so we can't use Fermat's little theorem that (a<sup>q-1</sup>=1(mod q)). <br>
