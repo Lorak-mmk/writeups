@@ -1,4 +1,4 @@
-# writeups
+# Writeups | Armia Prezesa
 CTF writeups
 
 ## Authors
