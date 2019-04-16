@@ -135,9 +135,11 @@ void FUN_0010435b(void)
 }
 ```
 This function registers our check_password_is_valid function as handler for signal 11 (0xb, SIGSEGV). I checked in documentation what arguments must sigaction take and what parameters are passed to handler when process gets registered signal. As you saw in code before, those arguments are:
+```
 int - signal number
 siginfo_t - some more informations about signal reveived. Unused in the task.
 ucontext - it contains informations about program state, such as registers values.
+```
 Setting proper types in ghidra (and some renaming of course) gives us code I posted before. As you can see, it takes one of our input chars and compares it with some value. input index and that value are taken from ucontext struct, so program probably sets registers to certain values and then does something to make signal 11 happen. That's not really important. What's important is that we can now get the flag.
 Battle plan:
 1. Get check_password_is_valid offset in file and set breakpoint in gdb.
