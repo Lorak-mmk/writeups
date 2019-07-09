@@ -1,4 +1,5 @@
 # Writeups | Armia Prezesa
+!!! REPO INACTIVE. NEW WRITEUPS PUBLISHED AT https://wiki.armiaprezesa.pl/ !!!
 CTF writeups
 
 ## Authors
